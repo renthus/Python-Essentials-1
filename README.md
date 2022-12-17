@@ -16,7 +16,7 @@ PCAP - Python Certified Associate Program - By Utah
 
 ## Conteúdo
 
-:heavy_check_mark: Módulo `1`: Introdução ao Python e à programação informática
+:heavy_check_mark: Módulo `1`: **Introdução ao Python e à programação informática**
 #### Neste módulo, aprenderá:
 > - os fundamentos da programação informática, ou seja, como o computador funciona, como o programa é executado, como a linguagem de programação é definida e construída;
 > - a diferença entre compilação e interpretação;
@@ -24,7 +24,7 @@ PCAP - Python Certified Associate Program - By Utah
 
 <br>
 
-:heavy_check_mark: Módulo `2`: Tipos de dados, variáveis, operações básicas de input-output, operadores básicos
+:heavy_check_mark: Módulo `2`: **Tipos de dados, variáveis, operações básicas de input-output, operadores básicos**
 #### Neste módulo, aprenderá:
 > - como escrever e executar programas simples de Python;
 > - o que são literais, operadores, e expressões Python;
