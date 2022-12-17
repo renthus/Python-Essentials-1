@@ -10,8 +10,6 @@
 
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
 
-- [Desenvolvedores](#desenvolvedores)
-
 ## Descrição do curso 
 
 PCAP - Python Certified Associate Program - By Utah
