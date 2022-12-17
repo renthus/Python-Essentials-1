@@ -24,6 +24,8 @@ PCAP - Python Certified Associate Program - By Utah
 > - a diferença entre compilação e interpretação;
 > - o que é o Python, como se posiciona entre outras linguagens de programação, e o que distingue as diferentes versões de Python.
 
+<br>
+
 :heavy_check_mark: Módulo `2`: Tipos de dados, variáveis, operações básicas de input-output, operadores básicos
 ### Neste módulo, aprenderá:
 > - como escrever e executar programas simples de Python;
