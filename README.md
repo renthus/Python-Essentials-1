@@ -4,7 +4,7 @@
 
 - [Descrição do curso](#descrição-do-curso)
 
-- [Funcionalidades](#funcionalidades)
+- [Conteúdo](#conteúdo)
 
 - [Links](#link-para-acesso-ao-curso)
 
@@ -16,12 +16,19 @@
 
 PCAP - Python Certified Associate Program - By Utah
 
+## Conteúdo
+
+:heavy_check_mark: Módulo `1`: 
+- Módulo `2`: Tipos de dados, variáveis, operações básicas de input-output, operadores básicos
+
+> Neste módulo, aprenderá:
+> - como escrever e executar programas simples de Python;
+> - o que são literais, operadores, e expressões Python;
+> - o que são as variáveis e quais as regras que as regem;
+> - como realizar operações básicas de input e output.
+
 ## Link para acesso ao curso
 https://lms.netacad.com/course/view.php?id=1070104
-
-## Funcionalidades
-
-:heavy_check_mark: `Funcionalidade 1:`
 
 ## Tecnologias utilizadas
 <p>
